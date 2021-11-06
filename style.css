@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-
 * {
     font-family: 'Poppins', sans-serif;
+}
+
+.nav-item-fz {
+    font-size: 16px !important;
+}
+
+.login-btn {
+    border: 1px solid #6B67F5 !important;
+    /* border-radius: 5px !important; */
+    background: #6B67F5 !important;
+    color: white !important;
 }
